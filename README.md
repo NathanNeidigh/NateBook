@@ -8,6 +8,7 @@ List of packages that need to be configured and installation scripts created.
 - [ ] Kitty - terminal emulator
 - [ ] NeoVim - text editor
 - [ ] Joshuto - file manager
+- [ ] system cleaning script
 - [ ] eza - ls replacement
 - [ ] wego or wttr - weather app
 - [ ] pure - prompt
