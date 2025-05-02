@@ -5,9 +5,10 @@ A repository of config files, scripts, installation instructions, wallpapers, fo
 List of packages that need to be configured and installation scripts created.
 
 - [ ] Hypland - window manager/compositor
-- [ ] Kitty - terminal emulator
+- [ ] *Alacritty* or Kitty - terminal emulator
 - [ ] NeoVim - text editor
 - [ ] Joshuto - file manager
+- [ ] NetworkManager
 - [ ] system cleaning script
 - [ ] eza - ls replacement
 - [ ] wego or wttr - weather app
