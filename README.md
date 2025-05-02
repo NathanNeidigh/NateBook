@@ -7,6 +7,7 @@ List of packages that need to be configured and installation scripts created.
 - [ ] Hypland - window manager/compositor
 - [ ] *Alacritty* or Kitty - terminal emulator
 - [ ] NeoVim - text editor
+- [ ] Tmux - Terminal workspaces
 - [ ] Joshuto - file manager
 - [ ] NetworkManager
 - [ ] system cleaning script
